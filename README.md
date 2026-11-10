@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./files/lab_logo.png" alt="BSML Logo" width="130" />
-</p>
-
-<h1 align="center">BSML | Bayesian Inference Lab</h1>
+<h1 align="center"><b>B</b>ayesian <b>I</b>nference <b>L</b>ab</h1>
 
 <p align="center">
   <em>Department of Statistics, Inha University</em>
@@ -10,7 +6,7 @@
 
 ---
 
-Welcome to the **Bayesian Inference Lab (BIL)** at Inha University.  
+Welcome to the **B**ayesian **I</b>nference **L**ab (**BIL**) at Inha University.  
 We pursue fundamental methodology and applied research at the intersection of Bayesian statistics, machine learning, and deep learning.
 
 ## Research Focus
@@ -33,4 +29,3 @@ We pursue fundamental methodology and applied research at the intersection of Ba
 
 - **Website**: [bayesian-inference-lab.github.io](https://bayesian-inference-lab.github.io)
 - **Affiliation**: Department of Statistics, Inha University
-- **Email**: statjs@inha.ac.kr
