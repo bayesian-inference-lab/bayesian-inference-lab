@@ -1,6 +1,6 @@
 <h1 align="center"><code>B</code>ayesian <code>I</code>nference <code>L</code>ab</h1>
 
-<h4 align="center">Department of Statistics, Inha University</h4>
+<h3 align="center">Department of Statistics, Inha University</h3>
 
 ---
 
