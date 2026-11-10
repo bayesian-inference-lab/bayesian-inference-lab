@@ -1,9 +1,12 @@
-<h1 align="center"><code>B</code>ayesian <code>I</code>nference <code>L</code>ab</h1>  <em>Department of Statistics, Inha University</em>
+<h1 align="center"><code>B</code>ayesian <code>I</code>nference <u>L</u>ab</h1>
+
+<p align="center">
+  <em>Department of Statistics, Inha University</em>
 </p>
 
 ---
 
-Welcome to the **B**ayesian **I</b>nference **L**ab (**BIL**) at Inha University.  
+Welcome to the <b>B</b>ayesian <b>I</b>nference <b>L</b>ab (<b>BIL</b>) at Inha University.  
 We pursue fundamental methodology and applied research at the intersection of Bayesian statistics, machine learning, and deep learning.
 
 ## Research Focus
